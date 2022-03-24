@@ -1,3 +1,3 @@
-# CS445-Computer-Security
+# CS445-Cyber-Security
 
 The other collaborator is a Teaching Assistant
